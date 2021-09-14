@@ -8,9 +8,13 @@
 # Dataset sources:
 We choose these eleven datasets because they are open source and fully available to the researchers:
 •Normal images:
+
 1—ChestX-ray8 dataset [1], with a total of 5000 images.
+
 •Pneumonia images:
+
 2—Chest X-Ray Images (Pneumonia) dataset [2], with a total of 4237 images, and 763 images from ChestX-ray8 dataset.[1].
+
 •COVID-19 images:
 3—BIMCV-COVID19 dataset [3], with a total of 2473 images.
 4—COVID-19 Image Data Collection [4], with a total of 208 images.
