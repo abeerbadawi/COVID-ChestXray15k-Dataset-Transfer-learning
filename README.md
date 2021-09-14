@@ -1,5 +1,9 @@
 # COVID-ChestXray15k-Dataset-Transfer-learning
 
+# Dataset access:
+Download dataset: https://drive.google.com/file/d/18aMf57_1u2AWInnMB67s3Xku0sPzm28u/view
+Please cite the following article if you are using this dataset: 
+
 # The contributions of this paper are as follows:
 •We  propose  new  modified  three  pre-trained  deep  learning  models  with  transfer learning  based  on  Dense-Net201,  VGG16,  and  VGG19  to  detect  COVID-19  from X-ray images.
 
