@@ -3,7 +3,16 @@
 # Dataset access:
 Download dataset: https://drive.google.com/file/d/18aMf57_1u2AWInnMB67s3Xku0sPzm28u/view
 
-Please cite the following article if you are using this dataset: 
+Please cite the following article if you are using this dataset or the code: 
+
+MDPI and ACS Style
+Badawi, A.; Elgazzar, K. Detecting Coronavirus from Chest X-rays Using Transfer Learning. COVID 2021, 1, 403-415. https://doi.org/10.3390/covid1010034
+
+AMA Style
+Badawi A, Elgazzar K. Detecting Coronavirus from Chest X-rays Using Transfer Learning. COVID. 2021; 1(1):403-415. https://doi.org/10.3390/covid1010034
+
+Chicago/Turabian Style
+Badawi, Abeer, and Khalid Elgazzar. 2021. "Detecting Coronavirus from Chest X-rays Using Transfer Learning" COVID 1, no. 1: 403-415. https://doi.org/10.3390/covid1010034
 
 # The contributions of this paper are as follows:
 •We  propose  new  modified  three  pre-trained  deep  learning  models  with  transfer learning  based  on  Dense-Net201,  VGG16,  and  VGG19  to  detect  COVID-19  from X-ray images.
